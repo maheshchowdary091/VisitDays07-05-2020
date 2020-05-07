@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VisitTimeButtonInMobi(VisitType)</name>
+   <tag></tag>
+   <elementGuidId>0ca4804c-c8ca-41c0-8130-60ffb7d0d179</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//strong[text()='${VisitType}']/../../../..//button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//strong[text()='${VisitType}']/../../../..//button</value>
+   </webElementProperties>
+</WebElementEntity>
